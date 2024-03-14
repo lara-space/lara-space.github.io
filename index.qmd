@@ -1,0 +1,11 @@
+---
+title: "Welcome/Bienvenidos"
+---
+
+![Welcome](/images/banner-min.png)
+
+Hola, bienvenidos a mi sitio web.
+
+Este es un sitio web creado para compartir notas, tutoriales, discusiones y otros recursos que he creado para mi trabajo y estudio.
+
+Espero que encuentres algo útil o interesante aquí.
